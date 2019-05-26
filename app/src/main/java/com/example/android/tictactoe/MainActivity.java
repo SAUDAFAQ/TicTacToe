@@ -35,7 +35,6 @@ public class MainActivity extends AppCompatActivity {
     View views;
 
     private TextView play_turn;
-    private static final String TAG = "MyMainActivity";
     private ArrayList<ArrayList<ImageView>> allLines;
     private ArrayList<ImagesAndScores> rootsChildrenScores;
 
